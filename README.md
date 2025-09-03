@@ -1,5 +1,5 @@
 # FantaHelper
-Un tool per aiutare i fantallenatori a vincere il fantacalcio Open-Source. Fase di test. Non ancora stabile,ha necessità di tweak prima di essere avviato (es. posizione di players.json e script.js)
+Un tool per aiutare i fantallenatori a vincere il fantacalcio Open-Source. Fase di test. Non ancora stabile,ha necessità di aggiungere manualmente players.json (presente nello zip) quando avviato.
 
 Screenshot Beta 1 (03/09/2025)
 
