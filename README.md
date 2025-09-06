@@ -3,6 +3,6 @@ Un tool per aiutare i fantallenatori a vincere il fantacalcio Open-Source. Fase 
 Provalo qui:
 https://fanta-helper.static.domains/public/index.html
 
-Screenshot Beta 2 (04/09/2025)
+Screenshot v0.9-beta9 (06/09/2025)
 
-[<img src="https://github.com/mattj-na/FantaHelper/blob/main/Screenshot%20v0.2-Beta2.png">](https://github.com/mattj-na/FantaHelper/blob/main/Screenshot%20v0.2-Beta2.png)
+[<img src="https://github.com/mattj-na/FantaHelper/blob/main/Screenshot%20v0.9-beta9.png?raw=true)
