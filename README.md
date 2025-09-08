@@ -1,5 +1,5 @@
 # FantaHelper
-Un tool per aiutare i fantallenatori a vincere il fantacalcio Open-Source. Fase di test. Non ancora totalmente stabile.
+Un tool per aiutare i fantallenatori a vincere il fantacalcio Open-Source. 
 Provalo qui:
 https://fanta-helper.static.domains/public/index.html
 
