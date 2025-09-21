@@ -1,7 +1,7 @@
 # FantaHelper
 Un tool per aiutare i fantallenatori a vincere il fantacalcio Open-Source. 
 Provalo qui:
-https://fanta-helper.static.domains/public/index.html
+https://fantahelper.pages.dev
 
 Screenshot v1.2 (21/09/2025)
 
